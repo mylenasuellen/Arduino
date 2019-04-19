@@ -1,0 +1,6 @@
+/* Criando repositorio local: 
+git init
+
+Criando repositório remoto:
+git remote add <nome> <url>.git
+*/
